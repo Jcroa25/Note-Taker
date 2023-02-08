@@ -12,6 +12,6 @@ An application for taking notes
 
 Clone Repo, npm install and npm start.
 
-# Author
+### Author
 
 JuanCarlos Roa
